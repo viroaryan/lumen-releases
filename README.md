@@ -4,9 +4,9 @@
 
 Lumen ek Android music app hai: YouTube Music, JioSaavn aur SoundCloud ek saath search karo, offline download karo, playlist ek code se share karo, aur Studio mein karaoke gaao. **No ads · No account · No tracking.**
 
-## ⬇️ Latest: Lumen 1.5
+## ⬇️ Latest: Lumen 1.6
 
-**[Lumen-1.5.apk download karo](https://github.com/viroaryan/lumen-releases/releases/download/v1.5/Lumen-1.5.apk)** · 5.0 MB · Android 8.0 ya usse naya
+**[Lumen-1.6.apk download karo](https://github.com/viroaryan/lumen-releases/releases/download/v1.6/Lumen-1.6.apk)** · 5.1 MB · Android 8.0 ya usse naya
 
 Hamesha sabse naya version: [https://github.com/viroaryan/lumen-releases/releases/latest](https://github.com/viroaryan/lumen-releases/releases/latest)
 
@@ -14,7 +14,8 @@ Hamesha sabse naya version: [https://github.com/viroaryan/lumen-releases/release
 
 | Version | Date | Kya khaas hai | Download |
 |---|---|---|---|
-| **1.5** (latest) | 7 Nov 2026 | Queue aur radio theek, downloads resume, list mein search/sort, din mein 2 notifications | [APK](https://github.com/viroaryan/lumen-releases/releases/download/v1.5/Lumen-1.5.apk) · [Notes](https://github.com/viroaryan/lumen-releases/releases/tag/v1.5) |
+| **1.6** (latest) | 9 Nov 2026 | Song finder bubble (koi bhi gaana pehchano), list ka order khiska ke badlo, har list par apni photo | [APK](https://github.com/viroaryan/lumen-releases/releases/download/v1.6/Lumen-1.6.apk) · [Notes](https://github.com/viroaryan/lumen-releases/releases/tag/v1.6) |
+| **1.5** | 7 Nov 2026 | Queue aur radio theek, downloads resume, list mein search/sort, din mein 2 notifications | [APK](https://github.com/viroaryan/lumen-releases/releases/download/v1.5/Lumen-1.5.apk) · [Notes](https://github.com/viroaryan/lumen-releases/releases/tag/v1.5) |
 | 1.4 | 7 Nov 2026 | Playlist share code, backup/restore, data safety, tez shuruaat | [APK](https://github.com/viroaryan/lumen-releases/releases/download/v1.4/Lumen-1.4.apk) · [Notes](https://github.com/viroaryan/lumen-releases/releases/tag/v1.4) |
 | 1.3 | 7 Nov 2026 | Podcasts aur lectures, link paste, taste wala home, nayi pakki key | [APK](https://github.com/viroaryan/lumen-releases/releases/download/v1.3/Lumen-1.3.apk) · [Notes](https://github.com/viroaryan/lumen-releases/releases/tag/v1.3) |
 | 1.2 | 5 Nov 2026 | Pehla build: 3 sources ka search, player, playlists, downloads | [APK](https://github.com/viroaryan/lumen-releases/releases/download/v1.2/Lumen-1.2.apk) · [Notes](https://github.com/viroaryan/lumen-releases/releases/tag/v1.2) |
