@@ -2,6 +2,30 @@
 
 Sabse naya version sabse upar.
 
+## Lumen 1.7 · Song finder pakka, engines naye
+
+**10 Nov 2026 · build 8 · Android 8.0+**
+
+1.6 ke song finder aur cover photo ki galtiyan theek kiin, aur gaane laane wale engines update kiye.
+
+### Theek kiya
+- Gaana pehchanne ke baad upar wala card kholte ya band karte waqt **app crash** ho jaata tha, jisse bubble bhi gayab ho jaata tha. Ab nahi hota.
+- **"Play in Lumen"** ab sahi chalta hai: gaana turant bajna shuru hota hai aur Lumen player ke saath khulta hai. Agar phone Lumen ko upar aane se roke, to card par "Open Lumen" button aata hai.
+- Card ko **✕ ya swipe** (left, right ya upar) se hatao. Sirf card hatta hai, gol bubble agle gaane ke liye rehta hai.
+- List par apni photo lagate waqt **"Couldn't open that picture"** aata tha. Ab photo khulti hai aur crop hoti hai.
+
+### Naya
+- **Check music sources** (Settings mein): ek tap mein YouTube Music, JioSaavn aur SoundCloud teeno ka search aur asli stream test hota hai, aur batata hai kaunsa chal raha hai.
+
+### Tez aur safe
+- YouTube aur SoundCloud wala engine (NewPipe Extractor) naye version 0.27.0 par.
+- Networking (OkHttp 5.5.1) aur image (Coil 3.6.3) libraries update.
+- Sunna band karte waqt mic ab hamesha saaf tareeke se chhoot'ta hai.
+
+**Update:** 1.3 ya usse naye version ke upar seedha install karo, data safe rehta hai.
+
+`SHA-256: 72a20118361f38b37910d5941d7fa43c89754d00c1a091511c3df853e31e3fa2`
+
 ## Lumen 1.6 · Koi bhi gaana pehchano
 
 **9 Nov 2026 · build 7 · Android 8.0+**
