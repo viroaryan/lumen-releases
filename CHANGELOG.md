@@ -2,6 +2,32 @@
 
 Sabse naya version sabse upar.
 
+## Lumen 1.8 · Earphone mein bhi gaana pehchano
+
+**10 Nov 2026 · build 9 · Android 8.0+**
+
+Song finder ab phone ka apna sound sunta hai, lyrics shabd-dar-shabd chalte hain, aur app ko apne hisaab se rang, font aur bhasha de sakte ho.
+
+### Naya
+- **Phone ka sound sunna**: song finder ab seedha phone ke andar ka sound sunta hai, isliye **earphone lage hon tab bhi** kisi bhi app ka gaana pehchan leta hai. Agar koi app apna sound share nahi karta, to Lumen khud mic par chala jaata hai.
+- **"Mic (music outside)"** option: laptop, TV ya dukaan mein bajta gaana pehchanne ke liye. Identify mein "Listen to" se chuno.
+- **Saaf setup screen**: bubble ke liye har permission alag step mein, kyun chahiye ye likha hua, aur ho jaane par tick. "Restricted setting" aaye to wahin 4 line ka rasta aur "Open App info" button.
+- **Lyrics shabd-dar-shabd**: gaane ke saath har shabd roshan hota hai. Jahan source ke paas asli timing hai wahan wahi, baaki mein line ki lambai se andaza.
+- **Lyrics ki lipi chuno**: jis gaane ke lyrics Hindi, Roman, Punjabi jaisi kai lipiyon mein hain, wahan upar se chuno. Pasand yaad rehti hai.
+- Lyrics na milein to ek **doosre catalogue** se bhi dhoondhta hai.
+- **8 rang ke theme**, **6 fonts** aur **4 text size** (Settings → Appearance).
+- **12 bhashayein**: हिन्दी, বাংলা, मराठी, ગુજરાતી, ਪੰਜਾਬੀ, தமிழ், తెలుగు, ಕನ್ನಡ, മലയാളം, Español, Français, English. Abhi mukhya shabd (tabs, library, menu, settings) translate hain; baaki English mein hain.
+
+### Tez
+- Haal ke gaanon ke lyrics yaad rehte hain, dobara kholne par turant aate hain.
+
+### Safe
+- Phone ke sound ke liye Android har baar "Start recording?" poochta hai. Lumen sirf sound leta hai, screen kabhi nahi, aur recording phone se bahar nahi jaati.
+
+**Update:** 1.3 ya usse naye version ke upar seedha install karo, data safe rehta hai.
+
+`SHA-256: 5c88634b3f2fbfbb228f3ba7d015a2abc81bedad447b59b04e448e6c24fc70b9`
+
 ## Lumen 1.7 · Song finder pakka, engines naye
 
 **10 Nov 2026 · build 8 · Android 8.0+**
